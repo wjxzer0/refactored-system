@@ -1,6 +1,9 @@
 bbbbbbbbbbbbbb 0
 00000000
+<<<<<<< HEAD
 9999999999
+111111111
+>>>>>>> red
 apple
 apple
 apple
